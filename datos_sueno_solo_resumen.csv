@@ -1,0 +1,7 @@
+﻿Variable,Media,Mediana,Moda,Minimo,Maximo,Rango,Desviacion
+Horas_sueno,6.72,6.65,6.6,4.9,8.4,3.5,0.97
+Calidad_sueno,7.54,8.0,8,5,10,5,1.2
+Nivel_descanso_Buena,27,,,,,,
+Nivel_descanso_Regular,22,,,,,,
+Nivel_descanso_Mala,1,,,,,,
+Correlacion_horas_calidad,0.94,,,,,,
